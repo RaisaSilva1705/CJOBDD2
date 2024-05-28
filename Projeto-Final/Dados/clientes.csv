@@ -1,0 +1,26 @@
+cod_cli;nome_cli;sexo_cli;cpf;telefone_cli;endereco_cli;seguro_cli
+1;Maria Silva;F;87340340050;83984141404;Rua Ângelo Domingos Durigan;901
+2;João Souza;M;57336799051;NULL;Avenida Sebastião Queiroz Alcantara;NULL
+3;Ana Oliveira;F;NULL;55995252323;NULL;NULL
+4;Pedro Costa;M;NULL;45986523008;Rua Pará;NULL
+5;Paula Santos;F;NULL;NULL;NULL;NULL
+6;Carlos Gomes;M;54762906050;48994031609;Avenida Cansul Assaf Trad 4796;418
+7;Bruna Ferreira;F;NULL;NULL;NULL;NULL
+8;Rafael Pereira;M;46329922080;45984798961;Rua Bem-Te-Vi;733
+9;Jéssica Almeida;F;72979561045;NULL;Praça Deputado Janduhy Carneiro;945
+10;Lucas Lima;M;NULL;84982037451;NULL;NULL
+11;Camila Rodrigues;F;NULL;NULL;NULL;NULL
+12;Vinícius Oliveira;M;NULL;83995323347;Travessa Barão de Mauá;NULL
+13;Larissa Silva;F;NULL;NULL;NULL;NULL
+14;Guilherme Melo;M;21742540007;27998578275;Avenida Parigot de Souza;842
+15;Sofia Andrade;F;NULL;67984457476;NULL;600
+16;Daniel Dias;M;46637630063;65996587995;Rua Primavera;113
+17;Rebeca Oliveira;F;14248992060;NULL;NULL;NULL
+18;Felipe Souza;M;NULL;96981678461;Rua Visconde de Guarapuava;816
+19;Letícia Santos;F;NULL;NULL;NULL;NULL
+20;Gustavo Costa;M;54358155090;41986460178;Rua Uruguai;NULL
+21;Fernanda Gomes;F;NULL;NULL;Rua Romano Contarini;NULL
+22;Gabriel Ferreira;M;NULL;NULL;NULL;NULL
+23;Ana Paula Pereira;F;60682625027;83984141404;NULL;NULL
+24;Marcos Lima;M;13577953004;47992535442;Rua Porto Lerici;134
+25;Luana Rodrigues;F;null;NULL;;

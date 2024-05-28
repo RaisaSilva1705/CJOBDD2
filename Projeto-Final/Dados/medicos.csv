@@ -1,0 +1,7 @@
+cod_medicos;nome_medicos;sexo_medicos;crm;especialidade_medicos;telefone_medicos
+1;Maria Silva;F;154861;Clínico geral;NULL
+2;João Mendes;M;854629;Cardiologista;98993947211
+3;Pedro Oliveira;M;458667;Clínico geral;81998636893
+4;Ana Almeida;F;324787;Clínico geral;NULL
+5;Bruna Ferreira;F;665874;Psiquiatra;NULL
+6;Sofia Vitória;F;387554;Psiquiatra;71983912670

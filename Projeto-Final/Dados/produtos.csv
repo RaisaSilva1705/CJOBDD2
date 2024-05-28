@@ -1,0 +1,41 @@
+cod_prod;nome_prod;tipo_prod;descricao_prod;valor_prod;cod_fab
+1;Fio dental Colgate;Higiene;Higiene bucal;10.90;14
+2;Resfenol;Medicamento;Gripes e resfriados;22.50;11
+3;Eno sal de frutas;Medicamento;Digestão equilibrada;4.60;4
+4;Cetaphil;Pele;Hidratante;99.81;18
+5;Engov;Medicamento;Digestão equilibrada;24.50;3
+6;Cetaphil creme noturno;Pele;Hidratante;18.80;18
+7;Luftal caps;Medicamento;Digestão equilibrada;27.90;5
+8;Luftal gotas;Medicamento;Digestão equilibrada;29.99;5
+9;Buscopan composto;Medicamento;Dores e Febre;20.75;8
+10;Buscopan ;Medicamento;Dores e Febre;19.49;8
+11;Dailus Água micelar;Pele;Demaquilante;23.50;19
+12;Rinosoro;Medicamento;Gripes e resfriados;39.90;6
+13;Alivium cápsula;Medicamento;Dores e Febre;33.45;6
+14;Alivium gotas;Medicamento;Dores e Febre;37.19;6
+15;Listerine;Higiene;Higiene bucal;15.39;16
+16;Dailus Lenço c/ água de maça;Pele;Demaquilante;17.52;19
+17;Dorflex;Medicamento;Dores e Febre;21.59;1
+18;Cotonete;Higiene;Higiene;5.49;16
+19;Novalgina;Medicamento;Dores e Febre;21.50;8
+20;Novalgina gotas;Medicamento;Dores e Febre;13.99;8
+21;Novalgina solução ;Medicamento;Dores e Febre;45.29;8
+22;Sabonete Dove;Higiene;Higiene;4.23;15
+23;Sabonete Delicious Care Dove;Higiene;Higiene;4.59;15
+24;Expec;Medicamento;Gripes e resfriados;37.50;9
+25;Fluimucil;Medicamento;Gripes e resfriados;46.59;10
+26;Antitranspirante Aerosol Rexona;Higiene;Higiene;15.99;15
+27;Naldecon Pack;Medicamento;Gripes e resfriados;50.19;5
+28;Shampoo Anticaspa Dove;Beleza;Cabelos;35.70;15
+29;Cimegripe 20 cápsulas;Medicamento;Gripes e resfriados;12.90;6
+30;Shampoo Hidra-Liso Dove;Beleza;Cabelos;28.77;15
+31;Loratamed ;Medicamento;Gripes e resfriados;21.19;8
+32;Loratamed solução;Medicamento;Gripes e resfriados;11.59;8
+33;Amoxil;Medicamento;Antibiótico;12.49;12
+34;Nisulid;Medicamento;Dores e Febre;65.59;13
+35;Lenços Umedecidos Neve;Higiene;Higiene;44.90;17
+36;Soro fisiológico;Medicamento;Antibiótico;7.43;2
+37;Máscara Intensiva Pantene;Beleza;Cabelos;19.90;20
+38;Gel de definição Salon Line;Beleza;Cabelos;19.27;20
+39;Rivotril gotas;Medicamento;Ansiolítico;28.59;12
+40;Shampoo Antifrizz Tresemmé;Beleza;Cabelos;17.99;20
